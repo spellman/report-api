@@ -1,0 +1,4 @@
+Order ID,Unit Price Cents,Source 2 Discount Cents,Source 1 Discount Cents,Session Type
+72144305,11050,1000,2020,control
+72144777,20000,0,3000,test
+72145239,5000,500,1500,unmanaged

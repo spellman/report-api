@@ -1,0 +1,4 @@
+Order ID|Unit Price Dollars|Source 1 Discount Dollars|Source 2 Discount Dollars|Session Type
+72144305|110.0|20.5|10.2|CONTROL
+72144777|200.0|30.0|0.0|TEST
+72145239|50.0|14.8|2.0|UNMANAGED
